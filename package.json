@@ -31,5 +31,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.1-canary.1",
     "@eslint/eslintrc": "^3"
+  },
+  "overrides": {
+    "next": "15.2.1-canary.1"
   }
 }
